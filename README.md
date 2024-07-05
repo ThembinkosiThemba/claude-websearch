@@ -1,6 +1,6 @@
 # A Simple We Search using Claude
 
-Easily search the web using Claude and Streamlit.
+Easily search the web using Claude and Streamlit. You will need the api key from Anthropic. Remember to sign up and get it.
 
 ### Getting Started
 ```sh
